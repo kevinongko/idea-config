@@ -3,10 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1492310036749">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Auth/LoginController.php" timestamp="1492145921108">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1492310458040">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/api/index.js" timestamp="1492310332050" />
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/apps/address/store/index.js" timestamp="1492310475239">
+        <mark key="[" line="35" column="10" />
+        <mark key="]" line="35" column="11" />
+        <mark key="^" line="35" column="10" />
+        <mark key="." line="35" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/apps/address/store/mutation-types.js" timestamp="1492310509287">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
       </file>
     </filemarks>
     <jumps />
@@ -14,11 +33,11 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdmlldyh2aWV3KCkpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlldyh2aWV3KCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>b</text>
       </register>
     </registers>
     <search>
