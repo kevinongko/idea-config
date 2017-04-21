@@ -6,10 +6,10 @@
       <file name="/Dummy.txt" timestamp="1492780493637">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/php/brewsuniq/webpack.mix.js" timestamp="1492781275250">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Code/php/brewsuniq/webpack.mix.js" timestamp="1492781627837">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="12" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Auth/LoginController.php" timestamp="1492145921108">
         <mark key="[" line="18" column="0" />
@@ -38,12 +38,18 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAuc2FzcygncmVzb3VyY2VzL2Fzc2V0cy9zYXNzL2FwcC5zYXNzJykK</text>
+        <text encoding="base64">ICAudmVyc2lvbigpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAuc2FzcygncmVzb3VyY2VzL2Fzc2V0cy9zYXNzL2FwcC5zYXNzJykK</text>
+        <text encoding="base64">ICAudmVyc2lvbigpCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAuZXh0cmFjdCh2ZW5kb3IpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAuc2FzcygncmVzb3VyY2VzL2Fzc2V0cy9zYXNzL2FwcC5zYXNzJykK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdmlldyh2aWV3KCkpCg==</text>
       </register>
       <register name="-" type="4">
