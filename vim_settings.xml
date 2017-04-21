@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1492310036749">
+      <file name="/Dummy.txt" timestamp="1492780493637">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Auth/LoginController.php" timestamp="1492145921108">
@@ -14,7 +14,6 @@
       <file name="/a.dummy" timestamp="1492310458040">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/api/index.js" timestamp="1492310332050" />
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/apps/address/store/index.js" timestamp="1492310475239">
         <mark key="[" line="35" column="10" />
         <mark key="]" line="35" column="11" />
@@ -26,6 +25,9 @@
         <mark key="]" line="6" column="24" />
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
+      </file>
+      <file name="/dummy.sql" timestamp="1492780523131">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
