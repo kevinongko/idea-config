@@ -87,6 +87,12 @@
         <mark key="." line="19" column="50" />
         <mark key="^" line="19" column="50" />
       </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Product/ProductController.php" timestamp="1492871215248">
+        <mark key="[" line="54" column="21" />
+        <mark key="]" line="54" column="27" />
+        <mark key="." line="54" column="27" />
+        <mark key="^" line="54" column="27" />
+      </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/Banner.vue" timestamp="1492784130632">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -102,7 +108,6 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/components/CategoryFilter.vue" timestamp="1492784962793" />
       <file name="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Auth/LoginController.php" timestamp="1492145921108">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -174,11 +179,11 @@
       <jump line="75" column="23" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/NewProduct.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHVibGljL21peC4zNzllY2MzMzI2NTU5MDZjMGRkYS5qcwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JHJlcXVlc3QtPnNrdQ==</text>
       </register>
       <register name="-" type="4">
-        <text>medium</text>
+        <text encoding="base64">JHJlcXVlc3QtPnNrdQ==</text>
       </register>
       <register name="/" type="4">
         <text>textarea</text>
@@ -187,31 +192,31 @@
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbHVtbiBpcy0xMiI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljL21peC4zNzllY2MzMzI2NTU5MDZjMGRkYS5qcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NrdScgPT4gJ3JlcXVpcmVkJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljL21peC4zNzllY2MzMzI2NTU5MDZjMGRkYS5qcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBEZXNjcmlwdGlvbiA8L2xhYmVsPgogICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgIDx0ZXh0YXJlYSBjbGFzcz0idGV4dGFyZWEiIHYtbW9kZWw9ImRlc2NyaXB0aW9uIj48L3RleHRhcmVhPgogICAgICAgIDwvcD4KICAgICAgPC9kaXY+Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBEZXNjcmlwdGlvbiA8L2xhYmVsPgogICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgIDx0ZXh0YXJlYSBjbGFzcz0idGV4dGFyZWEiIHYtbW9kZWw9ImRlc2NyaXB0aW9uIj48L3RleHRhcmVhPgogICAgICAgIDwvcD4KICAgICAgPC9kaXY+Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBDYXRlZ29yeSA8L2xhYmVsPgogICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJzZWxlY3QgaXMtbWVkaXVtIj4KICAgICAgICAgICAgPHNlbGVjdCB2LW1vZGVsPSJjYXRlZ29yeSI+CiAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIiBkaXNhYmxlZD4gU2VsZWN0IGNhdGVnb3J5IDwvb3B0aW9uPgogICAgICAgICAgICAgIDxvcHRpb24gdi1mb3I9ImNhdGVnb3J5IGluIGNhdGVnb3JpZXMiIDp2YWx1ZT0iY2F0ZWdvcnkuaWQiPiB7eyBjYXRlZ29yeS5uYW1lIH19IDwvb3B0aW9uPgogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L3A+CiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBDYXRlZ29yeSA8L2xhYmVsPgogICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJzZWxlY3QgaXMtbWVkaXVtIj4KICAgICAgICAgICAgPHNlbGVjdCB2LW1vZGVsPSJjYXRlZ29yeSI+CiAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIiBkaXNhYmxlZD4gU2VsZWN0IGNhdGVnb3J5IDwvb3B0aW9uPgogICAgICAgICAgICAgIDxvcHRpb24gdi1mb3I9ImNhdGVnb3J5IGluIGNhdGVnb3JpZXMiIDp2YWx1ZT0iY2F0ZWdvcnkuaWQiPiB7eyBjYXRlZ29yeS5uYW1lIH19IDwvb3B0aW9uPgogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L3A+CiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGJyPgo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBDYXRlZ29yeSA8L2xhYmVsPgogICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJzZWxlY3QgaXMtbWVkaXVtIj4KICAgICAgICAgICAgPHNlbGVjdCB2LW1vZGVsPSJjYXRlZ29yeSI+CiAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIiBkaXNhYmxlZD4gU2VsZWN0IGNhdGVnb3J5IDwvb3B0aW9uPgogICAgICAgICAgICAgIDxvcHRpb24gdi1mb3I9ImNhdGVnb3J5IGluIGNhdGVnb3JpZXMiIDp2YWx1ZT0iY2F0ZWdvcnkuaWQiPiB7eyBjYXRlZ29yeS5uYW1lIH19IDwvb3B0aW9uPgogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L3A+CiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBEZXNjcmlwdGlvbiA8L2xhYmVsPgogICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgIDxxdWlsbC1lZGl0b3Igdi1tb2RlbD0iZGVzY3JpcHRpb24iPjwvcXVpbGwtZWRpdG9yPgogICAgICAgIDwvcD4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgPGJyPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx0ZXh0YXJlYSBjbGFzcz0idGV4dGFyZWEiIHYtbW9kZWw9ImRlc2NyaXB0aW9uIj48L3RleHRhcmVhPgo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBEZXNjcmlwdGlvbiA8L2xhYmVsPgogICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgIDxxdWlsbC1lZGl0b3Igdi1tb2RlbD0iZGVzY3JpcHRpb24iPjwvcXVpbGwtZWRpdG9yPgogICAgICAgIDwvcD4KICAgICAgPC9kaXY+Cg==</text>
       </register>
     </registers>
     <search>
