@@ -22,6 +22,11 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/views/shared/header.blade.php" timestamp="1492913710848">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+      </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Media/ImageController.php" timestamp="1492909568693">
         <mark key="[" line="48" column="82" />
         <mark key="]" line="48" column="90" />
@@ -209,10 +214,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>brewsuniq-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>brewsuniq-</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
