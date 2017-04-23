@@ -88,7 +88,7 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492912652908">
+      <file name="/Dummy.txt" timestamp="1492914450609">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/webpack.mix.js" timestamp="1492785126600">
@@ -114,10 +114,25 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/app.sass" timestamp="1492914289859">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/class.sass" timestamp="1492914418903">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+      </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/components/CartModal.vue" timestamp="1492783903075">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/components/nav.sass" timestamp="1492914341763">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/Product.vue" timestamp="1492784170659">
         <mark key="[" line="44" column="0" />
@@ -168,6 +183,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/variable.sass" timestamp="1492914317956">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/customer/index.js" timestamp="1492784110478">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="17" column="22" />
@@ -184,10 +205,16 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/elements/notification.sass" timestamp="1492914331202">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/BannerDetail.vue" timestamp="1492784139167">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/utilities/variables.sass" timestamp="1492914314963">
+        <mark key="'" line="0" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -211,13 +238,16 @@
       <jump line="154" column="6" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
       <jump line="156" column="48" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
       <jump line="47" column="11" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="0" column="16" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/utilities/variables.sass" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/elements/notification.sass" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/components/nav.sass" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>brewsuniq-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>brewsuniq-</text>
+        <text>components/_all</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -229,28 +259,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBDYXRlZ29yeSA8L2xhYmVsPgogICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJzZWxlY3QgaXMtZnVsbHdpZHRoIj4KICAgICAgICAgICAgPHNlbGVjdCB2LW1vZGVsPSJjYXRlZ29yeSI+CiAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIiBkaXNhYmxlZD4gU2VsZWN0IGNhdGVnb3J5IDwvb3B0aW9uPgogICAgICAgICAgICAgIDxvcHRpb24gdi1mb3I9ImNhdGVnb3J5IGluIGNhdGVnb3JpZXMiIDp2YWx1ZT0iY2F0ZWdvcnkuaWQiPiB7eyBjYXRlZ29yeS5uYW1lIH19IDwvb3B0aW9uPgogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L3A+CiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">QGltcG9ydCAibW9kdWxlcy9fYWxsIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBTS1UgPC9sYWJlbD4KICAgICAgICA8cCBjbGFzcz0iY29udHJvbCI+CiAgICAgICAgICA8aW5wdXQgY2xhc3M9ImlucHV0IiB0eXBlPSJ0ZXh0IiB2LW1vZGVsPSJza3UiPgogICAgICAgIDwvcD4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">QGltcG9ydCAib3ZlcnJpZGVzL2VsZW1lbnRzL19hbGwiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICA8L2Rpdj4KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgIDxkaXYgY2xhc3M9ImZpZWxkIj4KICAgICAgICA8bGFiZWwgY2xhc3M9ImxhYmVsIj4gQ2F0ZWdvcnkgPC9sYWJlbD4KICAgICAgICA8cCBjbGFzcz0iY29udHJvbCI+CiAgICAgICAgICA8c3BhbiBjbGFzcz0ic2VsZWN0IGlzLWZ1bGx3aWR0aCI+CiAgICAgICAgICAgIDxzZWxlY3Qgdi1tb2RlbD0iY2F0ZWdvcnkiPgogICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiIgZGlzYWJsZWQ+IFNlbGVjdCBjYXRlZ29yeSA8L29wdGlvbj4KICAgICAgICAgICAgICA8b3B0aW9uIHYtZm9yPSJjYXRlZ29yeSBpbiBjYXRlZ29yaWVzIiA6dmFsdWU9ImNhdGVnb3J5LmlkIj4ge3sgY2F0ZWdvcnkubmFtZSB9fSA8L29wdGlvbj4KICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICA8L3NwYW4+CiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBDYXRlZ29yeSA8L2xhYmVsPgogICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJzZWxlY3QgaXMtZnVsbHdpZHRoIj4KICAgICAgICAgICAgPHNlbGVjdCB2LW1vZGVsPSJjYXRlZ29yeSI+CiAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIiBkaXNhYmxlZD4gU2VsZWN0IGNhdGVnb3J5IDwvb3B0aW9uPgogICAgICAgICAgICAgIDxvcHRpb24gdi1mb3I9ImNhdGVnb3J5IGluIGNhdGVnb3JpZXMiIDp2YWx1ZT0iY2F0ZWdvcnkuaWQiPiB7eyBjYXRlZ29yeS5uYW1lIH19IDwvb3B0aW9uPgogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L3A+CiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bGFiZWwgY2xhc3M9ImxhYmVsIj4gU0tVIDwvbGFiZWw+CiAgICAgICAgPHAgY2xhc3M9ImNvbnRyb2wiPgogICAgICAgICAgPGlucHV0IGNsYXNzPSJpbnB1dCIgdHlwZT0idGV4dCIgdi1tb2RlbD0ic2t1Ij4KICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBTS1UgPC9sYWJlbD4KICAgICAgICA8cCBjbGFzcz0iY29udHJvbCI+CiAgICAgICAgICA8aW5wdXQgY2xhc3M9ImlucHV0IiB0eXBlPSJ0ZXh0IiB2LW1vZGVsPSJza3UiPgogICAgICAgIDwvcD4KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNrdSAmJgo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICA8L2Rpdj4KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdza3UnID0+ICRyZXF1ZXN0LT5za3UsCg==</text>
+        <text encoding="base64">CiAgICAgIDxkaXYgY2xhc3M9ImZpZWxkIj4KICAgICAgICA8bGFiZWwgY2xhc3M9ImxhYmVsIj4gQ2F0ZWdvcnkgPC9sYWJlbD4KICAgICAgICA8cCBjbGFzcz0iY29udHJvbCI+CiAgICAgICAgICA8c3BhbiBjbGFzcz0ic2VsZWN0IGlzLWZ1bGx3aWR0aCI+CiAgICAgICAgICAgIDxzZWxlY3Qgdi1tb2RlbD0iY2F0ZWdvcnkiPgogICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiIgZGlzYWJsZWQ+IFNlbGVjdCBjYXRlZ29yeSA8L29wdGlvbj4KICAgICAgICAgICAgICA8b3B0aW9uIHYtZm9yPSJjYXRlZ29yeSBpbiBjYXRlZ29yaWVzIiA6dmFsdWU9ImNhdGVnb3J5LmlkIj4ge3sgY2F0ZWdvcnkubmFtZSB9fSA8L29wdGlvbj4KICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICA8L3NwYW4+CiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdza3UnID0+ICdyZXF1aXJlZCcsCg==</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgY2xhc3M9ImxhYmVsIj4gU0tVIDwvbGFiZWw+CiAgICAgICAgPHAgY2xhc3M9ImNvbnRyb2wiPgogICAgICAgICAgPGlucHV0IGNsYXNzPSJpbnB1dCIgdHlwZT0idGV4dCIgdi1tb2RlbD0ic2t1Ij4KICAgICAgICA8L3A+Cg==</text>
       </register>
     </registers>
     <search>
