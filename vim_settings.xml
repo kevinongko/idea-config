@@ -22,17 +22,23 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Media/ImageController.php" timestamp="1492909568693">
+        <mark key="[" line="48" column="82" />
+        <mark key="]" line="48" column="90" />
+        <mark key="^" line="48" column="90" />
+        <mark key="." line="48" column="90" />
+      </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/store/index.js" timestamp="1492784994508">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="12" />
         <mark key="." line="11" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/NewProduct.vue" timestamp="1492788323264">
-        <mark key="'" line="76" column="23" />
-        <mark key="[" line="57" column="10" />
-        <mark key="]" line="65" column="9" />
-        <mark key="." line="65" column="9" />
-        <mark key="^" line="65" column="9" />
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/NewProduct.vue" timestamp="1492909467107">
+        <mark key="'" line="70" column="23" />
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/config/index.js" timestamp="1492782743683">
         <mark key="[" line="4" column="0" />
@@ -51,12 +57,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" timestamp="1492788311323">
-        <mark key="'" line="58" column="11" />
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="41" />
-        <mark key="." line="20" column="41" />
-        <mark key="^" line="20" column="41" />
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" timestamp="1492909220097">
+        <mark key="'" line="44" column="11" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/apps/address/store/mutation-types.js" timestamp="1492310509287">
         <mark key="[" line="6" column="24" />
@@ -64,7 +69,7 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1492780523131">
+      <file name="/dummy.sql" timestamp="1492909813602">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/components/Delivery.vue" timestamp="1492783930058">
@@ -87,10 +92,10 @@
         <mark key="." line="19" column="50" />
         <mark key="^" line="19" column="50" />
       </file>
-      <file name="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Product/ProductController.php" timestamp="1492871215248">
-        <mark key="[" line="54" column="21" />
-        <mark key="]" line="54" column="27" />
-        <mark key="." line="54" column="27" />
+      <file name="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Product/ProductController.php" timestamp="1492908856839">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
         <mark key="^" line="54" column="27" />
       </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/Banner.vue" timestamp="1492784130632">
@@ -177,52 +182,61 @@
       <jump line="6" column="37" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
       <jump line="57" column="11" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
       <jump line="75" column="23" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/NewProduct.vue" />
+      <jump line="61" column="23" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="160" column="6" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="31" column="24" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="155" column="4" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="34" column="52" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="117" column="15" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="154" column="6" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="156" column="48" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="47" column="11" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JHJlcXVlc3QtPnNrdQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JHJlcXVlc3QtPnNrdQ==</text>
       </register>
       <register name="/" type="4">
-        <text>textarea</text>
+        <text>save</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbHVtbiBpcy0xMiI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NrdScgPT4gJ3JlcXVpcmVkJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljL21peC4zNzllY2MzMzI2NTU5MDZjMGRkYS5qcwo=</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBDYXRlZ29yeSA8L2xhYmVsPgogICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJzZWxlY3QgaXMtZnVsbHdpZHRoIj4KICAgICAgICAgICAgPHNlbGVjdCB2LW1vZGVsPSJjYXRlZ29yeSI+CiAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIiBkaXNhYmxlZD4gU2VsZWN0IGNhdGVnb3J5IDwvb3B0aW9uPgogICAgICAgICAgICAgIDxvcHRpb24gdi1mb3I9ImNhdGVnb3J5IGluIGNhdGVnb3JpZXMiIDp2YWx1ZT0iY2F0ZWdvcnkuaWQiPiB7eyBjYXRlZ29yeS5uYW1lIH19IDwvb3B0aW9uPgogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L3A+CiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBTS1UgPC9sYWJlbD4KICAgICAgICA8cCBjbGFzcz0iY29udHJvbCI+CiAgICAgICAgICA8aW5wdXQgY2xhc3M9ImlucHV0IiB0eXBlPSJ0ZXh0IiB2LW1vZGVsPSJza3UiPgogICAgICAgIDwvcD4KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBEZXNjcmlwdGlvbiA8L2xhYmVsPgogICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgIDx0ZXh0YXJlYSBjbGFzcz0idGV4dGFyZWEiIHYtbW9kZWw9ImRlc2NyaXB0aW9uIj48L3RleHRhcmVhPgogICAgICAgIDwvcD4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICA8L2Rpdj4KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIDxkaXYgY2xhc3M9ImZpZWxkIj4KICAgICAgICA8bGFiZWwgY2xhc3M9ImxhYmVsIj4gQ2F0ZWdvcnkgPC9sYWJlbD4KICAgICAgICA8cCBjbGFzcz0iY29udHJvbCI+CiAgICAgICAgICA8c3BhbiBjbGFzcz0ic2VsZWN0IGlzLWZ1bGx3aWR0aCI+CiAgICAgICAgICAgIDxzZWxlY3Qgdi1tb2RlbD0iY2F0ZWdvcnkiPgogICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiIgZGlzYWJsZWQ+IFNlbGVjdCBjYXRlZ29yeSA8L29wdGlvbj4KICAgICAgICAgICAgICA8b3B0aW9uIHYtZm9yPSJjYXRlZ29yeSBpbiBjYXRlZ29yaWVzIiA6dmFsdWU9ImNhdGVnb3J5LmlkIj4ge3sgY2F0ZWdvcnkubmFtZSB9fSA8L29wdGlvbj4KICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICA8L3NwYW4+CiAgICAgICAgPC9wPgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBDYXRlZ29yeSA8L2xhYmVsPgogICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJzZWxlY3QgaXMtbWVkaXVtIj4KICAgICAgICAgICAgPHNlbGVjdCB2LW1vZGVsPSJjYXRlZ29yeSI+CiAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIiBkaXNhYmxlZD4gU2VsZWN0IGNhdGVnb3J5IDwvb3B0aW9uPgogICAgICAgICAgICAgIDxvcHRpb24gdi1mb3I9ImNhdGVnb3J5IGluIGNhdGVnb3JpZXMiIDp2YWx1ZT0iY2F0ZWdvcnkuaWQiPiB7eyBjYXRlZ29yeS5uYW1lIH19IDwvb3B0aW9uPgogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L3A+CiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWwgY2xhc3M9ImxhYmVsIj4gU0tVIDwvbGFiZWw+CiAgICAgICAgPHAgY2xhc3M9ImNvbnRyb2wiPgogICAgICAgICAgPGlucHV0IGNsYXNzPSJpbnB1dCIgdHlwZT0idGV4dCIgdi1tb2RlbD0ic2t1Ij4KICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBDYXRlZ29yeSA8L2xhYmVsPgogICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgIDxzcGFuIGNsYXNzPSJzZWxlY3QgaXMtbWVkaXVtIj4KICAgICAgICAgICAgPHNlbGVjdCB2LW1vZGVsPSJjYXRlZ29yeSI+CiAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIiBkaXNhYmxlZD4gU2VsZWN0IGNhdGVnb3J5IDwvb3B0aW9uPgogICAgICAgICAgICAgIDxvcHRpb24gdi1mb3I9ImNhdGVnb3J5IGluIGNhdGVnb3JpZXMiIDp2YWx1ZT0iY2F0ZWdvcnkuaWQiPiB7eyBjYXRlZ29yeS5uYW1lIH19IDwvb3B0aW9uPgogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L3A+CiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNrdSAmJgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGJyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdza3UnID0+ICRyZXF1ZXN0LT5za3UsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iZmllbGQiPgogICAgICAgIDxsYWJlbCBjbGFzcz0ibGFiZWwiPiBEZXNjcmlwdGlvbiA8L2xhYmVsPgogICAgICAgIDxwIGNsYXNzPSJjb250cm9sIj4KICAgICAgICAgIDxxdWlsbC1lZGl0b3Igdi1tb2RlbD0iZGVzY3JpcHRpb24iPjwvcXVpbGwtZWRpdG9yPgogICAgICAgIDwvcD4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdza3UnID0+ICdyZXF1aXJlZCcsCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>textarea</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>textarea</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -233,6 +247,9 @@
         <entry>text</entry>
         <entry>image</entry>
         <entry>textarea</entry>
+        <entry>sku</entry>
+        <entry>select</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd />
       <history-expr />
