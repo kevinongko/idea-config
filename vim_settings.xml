@@ -77,9 +77,6 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492788567474">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/webpack.mix.js" timestamp="1492785126600">
         <mark key="[" line="28" column="30" />
         <mark key="]" line="28" column="30" />
@@ -112,6 +109,9 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/package.json" timestamp="1492910167440">
+        <mark key="[" line="11" column="87" />
       </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Auth/LoginController.php" timestamp="1492145921108">
         <mark key="[" line="18" column="0" />
