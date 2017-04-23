@@ -57,6 +57,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/pages/product.sass" timestamp="1492912590274">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+      </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" timestamp="1492909220097">
         <mark key="'" line="44" column="11" />
         <mark key="[" line="19" column="0" />
@@ -77,17 +83,20 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1492912652908">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/webpack.mix.js" timestamp="1492785126600">
         <mark key="[" line="28" column="30" />
         <mark key="]" line="28" column="30" />
         <mark key="." line="28" column="30" />
         <mark key="^" line="36" column="58" />
       </file>
-      <file name="$USER_HOME$/Code/php/brewsuniq/resources/views/pages/product.blade.php" timestamp="1492787927293">
-        <mark key="[" line="19" column="50" />
-        <mark key="]" line="19" column="50" />
-        <mark key="." line="19" column="50" />
-        <mark key="^" line="19" column="50" />
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/views/pages/product.blade.php" timestamp="1492912512510">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Product/ProductController.php" timestamp="1492908856839">
         <mark key="[" line="127" column="0" />
@@ -122,6 +131,12 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/components/Carousel.vue" timestamp="1492912401466">
+        <mark key="[" line="42" column="16" />
+        <mark key="]" line="42" column="18" />
+        <mark key="." line="42" column="18" />
+        <mark key="^" line="42" column="18" />
       </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/index.js" timestamp="1492785075419">
         <mark key="'" line="23" column="8" />
@@ -193,11 +208,11 @@
       <jump line="47" column="11" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHJlcXVlc3QtPnNrdQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
