@@ -17,6 +17,7 @@
         <mark key="^" line="1" column="38" />
         <mark key="." line="1" column="38" />
       </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/readme.md" timestamp="1492940558547" />
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/customer/views/Address.vue" timestamp="1492784035539">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -89,10 +90,11 @@
       <file name="/dummy.sql" timestamp="1492909813602">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/components/Delivery.vue" timestamp="1492783930058">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/components/Delivery.vue" timestamp="1492942676864">
+        <mark key="[" line="57" column="42" />
+        <mark key="]" line="57" column="46" />
+        <mark key="." line="57" column="46" />
+        <mark key="^" line="57" column="46" />
       </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/webpack.mix.js" timestamp="1492785126600">
         <mark key="[" line="28" column="30" />
@@ -219,6 +221,12 @@
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/utilities/variables.sass" timestamp="1492914314963">
         <mark key="'" line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/components/Payment.vue" timestamp="1492941754509">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+        <mark key="^" line="28" column="3" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="50" column="31" filename="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Media/SlideController.php" />
@@ -247,43 +255,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnIgY2xhc3M9ImlzLWhpZGRlbi1kZXNrdG9wIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaGFzLXRleHQtY2VudGVyZWQiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iIj48L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaXMtcHVsbGVkLXJpZ2h0Ij4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ic3VidGl0bGUgaXMtNiI+IHt7IHNlcnZpY2UuY29zdCB8IGN1cnJlbmN5KCdJRFInKSB9fSA8L3NwYW4+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCUkVXU1VOSVEgVEFCTEVXQVJFCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaGFzLXRleHQtY2VudGVyZWQiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaGFzLXRleHQtY2VudGVyZWQiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPnt7IHNlcnZpY2UuY291cmllcl9zZXJ2aWNlLmNvdXJpZXIuY29kZSB9fSAtIHt7IHNlcnZpY2UuY291cmllcl9zZXJ2aWNlLm5hbWUgfX0mbmJzcDs8L3N0cm9uZz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBIZXJvIHN1YnRpdGxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnI+Cg==</text>
       </register>
     </registers>
     <search>
