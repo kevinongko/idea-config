@@ -3,31 +3,315 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1492783311916">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/customer/store/index.js" timestamp="1492784434155">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/plugin/address/index.js" timestamp="1492785332985">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/readme.md" timestamp="1492940558547" />
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/customer/views/Address.vue" timestamp="1492784035539">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/views/shared/header.blade.php" timestamp="1492913710848">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Media/ImageController.php" timestamp="1492909568693">
+        <mark key="[" line="48" column="82" />
+        <mark key="]" line="48" column="90" />
+        <mark key="^" line="48" column="90" />
+        <mark key="." line="48" column="90" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/store/index.js" timestamp="1492784994508">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/NewProduct.vue" timestamp="1492909467107">
+        <mark key="'" line="70" column="23" />
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/config/index.js" timestamp="1492782743683">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/index.js" timestamp="1492787390085">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/.gitignore" timestamp="1492788479403">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/pages/product.sass" timestamp="1492912590274">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" timestamp="1492909220097">
+        <mark key="'" line="44" column="11" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/apps/address/store/mutation-types.js" timestamp="1492310509287">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/views/pages/home.blade.php" timestamp="1492939174305">
+        <mark key="[" line="14" column="48" />
+        <mark key="]" line="14" column="48" />
+        <mark key="." line="14" column="48" />
+        <mark key="^" line="14" column="47" />
+      </file>
+      <file name="/dummy.sql" timestamp="1492909813602">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/components/Delivery.vue" timestamp="1492942676864">
+        <mark key="[" line="57" column="42" />
+        <mark key="]" line="57" column="46" />
+        <mark key="." line="57" column="46" />
+        <mark key="^" line="57" column="46" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/webpack.mix.js" timestamp="1492785126600">
+        <mark key="[" line="28" column="30" />
+        <mark key="]" line="28" column="30" />
+        <mark key="." line="28" column="30" />
+        <mark key="^" line="36" column="58" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/views/pages/product.blade.php" timestamp="1492912512510">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Product/ProductController.php" timestamp="1492908856839">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="54" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/Banner.vue" timestamp="1492784130632">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/app.sass" timestamp="1492914289859">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="12" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/class.sass" timestamp="1492914418903">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/components/CartModal.vue" timestamp="1492783903075">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/components/nav.sass" timestamp="1492914341763">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/Product.vue" timestamp="1492784170659">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/package.json" timestamp="1492910167440">
+        <mark key="[" line="11" column="87" />
+      </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Auth/LoginController.php" timestamp="1492145921108">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/javascript/theabrand/src/components/ContactForm.vue" timestamp="1492159070694" />
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/store/index.js" timestamp="1492784455142">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/components/Carousel.vue" timestamp="1492912401466">
+        <mark key="[" line="42" column="16" />
+        <mark key="]" line="42" column="18" />
+        <mark key="." line="42" column="18" />
+        <mark key="^" line="42" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/index.js" timestamp="1492785075419">
+        <mark key="'" line="23" column="8" />
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+        <mark key="^" line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/plugin/ui/index.js" timestamp="1492785391690">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/apps/address/store/index.js" timestamp="1492310475239">
+        <mark key="[" line="35" column="10" />
+        <mark key="]" line="35" column="11" />
+        <mark key="^" line="35" column="10" />
+        <mark key="." line="35" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/SlideDetail.vue" timestamp="1492784193311">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/variable.sass" timestamp="1492914317956">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/customer/index.js" timestamp="1492784110478">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/Order.vue" timestamp="1492784160298">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/Slide.vue" timestamp="1492784186112">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/elements/notification.sass" timestamp="1492914331202">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/BannerDetail.vue" timestamp="1492784139167">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/utilities/variables.sass" timestamp="1492914314963">
+        <mark key="'" line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/components/Payment.vue" timestamp="1492941754509">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+        <mark key="^" line="28" column="3" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="50" column="31" filename="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Media/SlideController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/php/brewsuniq/app/Http/Controllers/Media/SlideController.php" />
+      <jump line="15" column="46" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/plugin/ui/index.js" />
+      <jump line="9" column="37" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/plugin/ui/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/plugin/ui/index.js" />
+      <jump line="9" column="17" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/index.js" />
+      <jump line="23" column="8" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/shop/index.js" />
+      <jump line="62" column="11" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="6" column="37" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="57" column="11" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="75" column="23" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/NewProduct.vue" />
+      <jump line="61" column="23" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="160" column="6" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="31" column="24" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="155" column="4" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="34" column="52" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="117" column="15" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="154" column="6" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="156" column="48" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="47" column="11" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/js/app/admin/views/ProductDetail.vue" />
+      <jump line="0" column="16" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/utilities/variables.sass" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/elements/notification.sass" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/php/brewsuniq/resources/assets/sass/overrides/components/nav.sass" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlldyh2aWV3KCkpCg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlldyh2aWV3KCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>save</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaGFzLXRleHQtY2VudGVyZWQiPgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iIj48L2Rpdj4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ic3VidGl0bGUgaXMtNiI+IHt7IHNlcnZpY2UuY29zdCB8IGN1cnJlbmN5KCdJRFInKSB9fSA8L3NwYW4+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaGFzLXRleHQtY2VudGVyZWQiPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaGFzLXRleHQtY2VudGVyZWQiPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPnt7IHNlcnZpY2UuY291cmllcl9zZXJ2aWNlLmNvdXJpZXIuY29kZSB9fSAtIHt7IHNlcnZpY2UuY291cmllcl9zZXJ2aWNlLm5hbWUgfX0mbmJzcDs8L3N0cm9uZz4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YnI+Cg==</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>save</last-search>
+      <last-offset />
+      <last-pattern>save</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>index</entry>
+        <entry>app</entry>
+        <entry>text</entry>
+        <entry>image</entry>
+        <entry>textarea</entry>
+        <entry>sku</entry>
+        <entry>select</entry>
+        <entry>save</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
