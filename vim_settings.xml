@@ -101,11 +101,12 @@
         <mark key="." line="60" column="26" />
         <mark key="^" line="60" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/php/brewsuniq/webpack.mix.js" timestamp="1492785126600">
-        <mark key="[" line="28" column="30" />
-        <mark key="]" line="28" column="30" />
-        <mark key="." line="28" column="30" />
-        <mark key="^" line="36" column="58" />
+      <file name="$USER_HOME$/Code/php/brewsuniq/webpack.mix.js" timestamp="1494432526116">
+        <mark key="'" line="34" column="13" />
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+        <mark key="^" line="10" column="5" />
       </file>
       <file name="$USER_HOME$/Code/php/brewsuniq/resources/views/pages/product.blade.php" timestamp="1492912512510">
         <mark key="[" line="8" column="36" />
@@ -245,6 +246,7 @@
       <jump line="40" column="10" filename="$USER_HOME$/Code/php/brewsuniq/resources/views/pages/shipping.blade.php" />
       <jump line="26" column="17" filename="$USER_HOME$/Code/php/brewsuniq/resources/views/shared/footer.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/php/brewsuniq/resources/views/pages/shipping.blade.php" />
+      <jump line="34" column="13" filename="$USER_HOME$/Code/php/brewsuniq/webpack.mix.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
